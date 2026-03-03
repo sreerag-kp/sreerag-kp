@@ -1,0 +1,9 @@
+github_user: sreerag-kp
+theme: transparent
+snake_color:
+  - "#6C63FF"
+  - "#4B0082"
+  - "#3A3D99"
+  - "#2C3E50"
+speed: slow
+size: medium

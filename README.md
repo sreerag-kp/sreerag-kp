@@ -23,9 +23,9 @@
     <a href="mailto:sreeragkaruthodi@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Gmail">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
     </a>
-    <a href="www.linkedin.com/in/sreerag-k-p-0041a1291" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-    </a>
+   <a href="https://www.linkedin.com/in/sreerag-k-p-0041a1291" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+</a>
 </div>
 
 <br/>
